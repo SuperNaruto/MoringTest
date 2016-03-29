@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    //创建完成-locas
+    //创建完成-locas      //locas的功能
 
     //小胡我饿了
 }
